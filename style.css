@@ -1,0 +1,185 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* header */
+h1{
+   text-align: center;
+   color: rgb(134, 130, 130);
+   font-size: 50px;
+   position: relative;
+   top: 40px;
+}
+h3{
+    text-align: center;
+    color: rgb(58, 56, 56);
+    font-size: 40px;
+    position: relative;
+    top: 40px; 
+}
+h6{
+    text-align: center;
+    color: rgb(199, 195, 195);
+    font-size: 22px;
+    position: relative;
+    top: 40px;  
+}
+h5{
+    text-align: center;
+    color: rgb(199, 195, 195);
+    font-size: 22px;
+    position: relative;
+    top: 40px;  
+}
+section{
+    width: 700px;
+    height: 500px;
+}
+/*   body  */
+/* start tap1  */
+.tap1{
+    width: 300px;
+    height: 220px;
+    background-color: rgb(255, 247, 247);
+    border-radius: 15px;
+    position: relative;
+    left: 580px;
+    top: 70px;
+}
+.tap1 hr{
+    width: 300px;
+    height: 10px;
+    border-radius: 15px;
+    background-color: rgb(255, 10, 10);
+}
+.tap1 h2{
+    font-size: 20px;
+    position: relative;
+    top: 15px;
+    left:20px ;
+}
+.tap1 p{
+    font-size: 15px;
+    color: rgb(122, 120, 120);
+    position: relative;
+    left: 18px;
+    top: 20px;
+}
+.tap1 img{
+  width: 100px;
+  height: 110px;
+  position: relative;
+  left: 180px;
+  top: 33px;
+}
+
+/* start tap2  */
+.tap2{
+    width: 300px;
+    height: 220px;
+    background-color: rgb(255, 247, 247);
+    border-radius: 15px;
+    position: relative;
+    left: 250px;
+    bottom: 30px;
+}
+.tap2 hr{
+    width: 300px;
+    height: 10px;
+    border-radius: 15px;
+    background-color: rgb(18, 241, 174);
+}
+.tap2 h2{
+    font-size: 20px;
+    position: relative;
+    top: 15px;
+    left:20px ;
+}
+.tap2 p{
+    font-size: 14px;
+    color: rgb(122, 120, 120);
+    position: relative;
+    left: 18px;
+    top: 20px;
+}
+.tap2 img{
+  width: 100px;
+  height: 110px;
+  position: relative;
+  left: 180px;
+  top: 40px;
+}
+
+/* start tap3 */
+.tap3{
+    width: 300px;
+    height: 220px;
+    background-color: rgb(255, 247, 247);
+    border-radius: 15px;
+    position: relative;
+    left: 915px;
+    bottom:250px;
+}
+.tap3 hr{
+    width: 300px;
+    height: 10px;
+    border-radius: 15px;
+    background-color: rgb(100, 145, 230);
+}
+.tap3 h2{
+    font-size: 20px;
+    position: relative;
+    top: 15px;
+    left:20px ;
+}
+.tap3 p{
+    font-size: 15px;
+    color: rgb(122, 120, 120);
+    position: relative;
+    left: 18px;
+    top: 20px;
+}
+.tap3 img{
+  width: 100px;
+  height: 100px;
+  position: relative;
+  left: 180px;
+  top: 25px;
+}
+
+/* start tap3 */
+.tap4{
+    width: 300px;
+    height: 220px;
+    background-color: rgb(255, 247, 247);
+    border-radius: 15px;
+    position: relative;
+    left: 580px;
+    bottom: 350px;
+}
+.tap4 hr{
+    width: 300px;
+    height: 10px;
+    border-radius: 15px;
+    background-color: rgb(238, 216, 22);
+}
+.tap4 h2{
+    font-size: 20px;
+    position: relative;
+    top: 15px;
+    left:20px ;
+}
+.tap4 p{
+    font-size: 14px;
+    color: rgb(122, 120, 120);
+    position: relative;
+    left: 18px;
+    top: 20px;
+}
+.tap4 img{
+  width: 100px;
+  height: 120px;
+  position: relative;
+  left: 180px;
+  top: 28px;
+}
